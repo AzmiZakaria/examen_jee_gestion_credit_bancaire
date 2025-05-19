@@ -29,3 +29,6 @@
 
 ## DTO package
 ![alt text](images/dto.png)
+
+## Service implementation logic
+![alt text](images/services.png)
