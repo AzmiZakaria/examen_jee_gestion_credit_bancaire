@@ -17,3 +17,12 @@
 
 ## JPA Repository
 ![alt text](image.png)
+
+### Test jpa operations
+![alt text](images/test_jpa_repo.png)
+
+### Affichade des donner dans la table Clinet
+![alt text](images/client_data.png)
+
+### Affichage des données dans la table Crédit
+![alt text](images/credit_data.png)
