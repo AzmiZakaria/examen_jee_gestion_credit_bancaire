@@ -26,3 +26,6 @@
 
 ### Affichage des données dans la table Crédit
 ![alt text](images/credit_data.png)
+
+## DTO package
+![alt text](images/dto.png)
