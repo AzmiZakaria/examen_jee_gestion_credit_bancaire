@@ -1,4 +1,16 @@
 # Examen JEE et arvhitecture distribué
 
-##creation des entites class et enumeration:
+## creation des entites class et enumeration:
 ![alt text](images/image.png)
+
+## Faire mapping avec les entites
+![alt text](images/exemple_mapping_table.png)
+
+### configuration de applications.properties
+![alt text](images/app_propertie.png)
+
+### Affichage de BD
+![alt text](images/db.png)
+
+### Affichage de credit table
+![alt text](images/credit_table.png)
